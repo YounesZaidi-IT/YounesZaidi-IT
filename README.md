@@ -6,6 +6,10 @@
 </p>
 > **10+ years of building software. From classic engineering to the AI era.**
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=888888&center=true&vCenter=true&width=650&lines=I+love+solving+complex+problems.;I+love+building+software.;I+love+learning+new+technologies.;Now+exploring+the+AI+era." />
+</p>
+
 I've been writing software for more than a decade — long before AI became part of everyday development.
 
 I grew up solving problems the traditional way: **reading documentation, debugging line by line, understanding systems deeply, searching through Stack Overflow, experimenting, breaking things, and fixing them again.**
@@ -17,6 +21,10 @@ I don't see AI as a replacement for software engineering.
 **I see it as another powerful layer of engineering.**
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=auto" width="80%">
+</p>
 
 ## 🧠 My Story
 
@@ -335,3 +343,7 @@ If you're building something interesting, feel free to connect.
 **10+ years of software engineering — and I'm still just getting started.**
 
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" width="100%"/>
+</p>
