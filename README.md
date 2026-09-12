@@ -326,15 +326,35 @@ That's the direction I'm pursuing.
 
 ---
 
-# 📊 GitHub
+🏢 Professional Work
 
-<div align="center">
+A significant part of my professional development work is done in private company environments, where the source code, architecture, and projects are confidential and cannot be publicly shared.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YounesZaidi-IT\&show_icons=true\&theme=tokyonight\&hide_border=true)
+Over the years, I've contributed to and developed many production systems, but only a small portion of that work can appear on this GitHub profile.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YounesZaidi-IT\&layout=compact\&theme=tokyonight\&hide_border=true)
+So, the number of public repositories here does not represent the amount of software I've built or the depth of my professional experience.
 
-</div>
+🔒 Most of my professional work is private
+
+My day-to-day engineering experience includes working on:
+
+🏗️ Large-scale backend systems
+🌐 Web applications
+📱 Mobile applications
+⚙️ APIs & microservices
+🗄️ Databases & data systems
+🐧 Linux & production environments
+🚀 DevOps & deployment
+👥 Large engineering teams
+🤖 AI & LLM-powered solutions
+
+Because these projects belong to the companies I work with, I respect their confidentiality, intellectual property, and security requirements.
+
+🌱 What you see here
+
+The repositories I publish are therefore a public window into my technical interests and personal development, rather than a complete representation of my professional work.
+
+I believe that sometimes the most valuable engineering work is the work that cannot be publicly displayed.
 
 ---
 
