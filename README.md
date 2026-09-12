@@ -120,79 +120,35 @@ After more than 10 years in software development, I know one thing very well:
 
 ---
 
-# 🛠️ My Engineering Universe
+# 🛠️ Technology & Engineering
 
-### Backend
+I've worked with **many programming languages, frameworks, platforms, and technologies** throughout my career, across backend, frontend, web, mobile, DevOps, and systems.
 
-```text
-PHP
-Symfony
-Python
-REST APIs
-Microservices
-Authentication
-Distributed Systems
-Database Architecture
-```
+### 💻 Backend
 
-### Frontend & Web
+`PHP` · `Symfony` · `Python` · `Java` · `C/C++` · `Node.js` · `REST APIs` · `Microservices` · `...`
 
-```text
-HTML / CSS
-JavaScript
-Modern Web Applications
-Frontend Architecture
-API Integration
-Responsive Applications
-```
+### 🌐 Frontend & Web
 
-### Mobile
+`JavaScript` · `TypeScript` · `React` · `Angular` · `Vue.js` · `HTML/CSS` · `...`
 
-```text
-iOS
-Android
-Native Development
-Hybrid Applications
-Mobile APIs
-Cross-platform Development
-```
+### 📱 Mobile
 
-### DevOps & Infrastructure
+`iOS` · `Android` · `Native` · `Hybrid` · `Cross-platform` · `...`
 
-```text
-Linux
-Git
-GitHub
-Docker
-CI/CD
-Servers
-Deployment
-Monitoring
-Production Systems
-```
+### 🐧 DevOps & Systems
 
-### AI & LLM
+`Linux` · `Git` · `Docker` · `CI/CD` · `Servers` · `Cloud` · `...`
 
-```text
-Large Language Models
-AI-assisted Development
-Prompt Engineering
-AI Agents
-LLM Applications
-AI APIs
-Automation
-RAG & Knowledge Systems
-```
+### 🤖 AI
 
-### And sometimes...
+`Artificial Intelligence` · `LLMs` · `AI APIs` · `AI Agents` · `RAG` · `Automation` · `...`
 
-```text
-🎮 Game Development
-```
+### 🎮 And Beyond
 
-Because software doesn't always have to solve business problems.
+`Game Development` · `System Programming` · `Databases` · `Architecture` · `Security` · `...`
 
-Sometimes you just build something because **it's fun.**
+> **I've worked with many technologies over the years. I don't define myself by a single stack — I define myself by the ability to understand, solve, and build.**
 
 ---
 
