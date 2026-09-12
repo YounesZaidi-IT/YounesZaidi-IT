@@ -1,10 +1,12 @@
 # 👋 Hi, I'm Younes Zaidi
 
 ### Senior Software Engineer • Technical Lead • Full-Stack Developer • AI Engineer in Progress
+> **10+ years of building software. From classic engineering to the AI era.**
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer;Full-Stack+Developer;Technical+Lead;Backend+%26+Microservices+Engineer;AI+%26+LLM+Explorer;10%2B+Years+of+Coding" />
 </p>
-> **10+ years of building software. From classic engineering to the AI era.**
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=888888&center=true&vCenter=true&width=650&lines=I+love+solving+complex+problems.;I+love+building+software.;I+love+learning+new+technologies.;Now+exploring+the+AI+era." />
