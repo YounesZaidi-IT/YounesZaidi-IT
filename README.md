@@ -280,7 +280,6 @@ That's the direction I'm pursuing.
 🤖 Artificial Intelligence
 🧠 Large Language Models
 🏗️ Software Architecture
-🐍 Python
 ⚙️ Microservices
 🚀 DevOps
 🌐 Backend & APIs
